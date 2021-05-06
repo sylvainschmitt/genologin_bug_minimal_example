@@ -1,0 +1,13 @@
+__default__:
+  jobname: "default"
+  mem: "4G"
+  cpus: 8
+  time: "48:00:00"
+
+fastqc:
+  jobname: "fastqc"
+  mem: "4G"
+  cpus: 1
+  time: "01:00:00"
+
+  
